@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Job Portal",
+  "name": "Job Portal is a collaborative school project[Group 3 - CSC 207(Web Programming 1)] designed to help users search for jobs",
   "icons": [
     {
       "src": "favicon.ico",

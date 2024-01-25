@@ -1,0 +1,56 @@
+/* Defined root-level variables for color values */
+:root {
+ --primary-color: #F2994A;
+ --secondary-color: #E3BF9E;
+ --black-color: #000;
+ --white-color: #FFF;
+}
+
+/* Style for underlining navigation links on hover */
+li a {
+ position: relative;
+ text-decoration: none;
+}
+
+/* Create underlines for links For Home and FindJobs Pages*/
+.underln a::before,
+.underln a::after {
+ content: "";
+ position: absolute;
+ width: 0;
+ height: 2px;
+ bottom: -5px;
+ background: var(--black-color);
+ transition: all 0.3s ease;
+}
+
+/* Create underlines for links for About Page - Color Changed to --primary-color */
+.underlnn a::before,
+.underlnn a::after {
+ background: var(--primary-color);
+}
+
+/* Position underlines on both sides of links */
+.underln a::before {
+ left: 0;
+}
+
+.underln a::after {
+ right: 0;
+}
+
+/* Expand underlines on link hover */
+.underln a:hover::before,
+.underln a:hover::after {
+ width: 50%;
+}
+
+/* Apply box shadow to elements with 'sponsored' class */
+.sponsored {
+ box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+
+
+.img {
+ width: 30px;
+}

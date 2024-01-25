@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Job Portal - Job Search Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+The Job Portal project is a collaborative effort by Group 3 in the Web Programming 1 course (CSC 207) at ESTAM University. This platform assists users in searching for jobs by leveraging the Adzuna API, providing easy access to 10 job listings per search in a specified area.
 
-In the project directory, you can run:
+### School Information
+- **University:** ESTAM University
+- **Department:** Computer Science
+- **Course Code:** CSC 207
+- **Course:** Web Programming 1
+- **Group:** Group III {3}
 
-### `yarn start`
+## Technologies Utilized
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Adzuna API
+- CSS3
+- Firebase (Hosting)
+- HTML5
+- React JS
+- Tailwind
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Project URLs
 
-### `yarn test`
+- **Deployed Site:** [Deployed URL]()
+- **GitHub Repository:** [GitHub Repository](https://github.com/jkavod/jobportal/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Key Features
 
-### `yarn build`
+1. **Job Listings Display:** Showcase a list of available jobs.
+2. **Location-Based Filtering:** Enable users to filter jobs by location.
+3. **Type Filtering:** Allow users to filter jobs by type.
+4. **Mode Filtering:** Provide options for filtering jobs by mode.
+5. **Detailed Job View:** Permit users to click on a job listing to view more details.
+6. **No Login Required:** Users can access the platform without the need for login credentials.
+7. **Search Bar:** Include a search bar for keyword or title-based job searches.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Future Updates
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Resume Fix:** Address and enhance the resume-related functionality.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Project Screenshot
 
-### `yarn eject`
+![Deployed Site](/src/Assets/ProjectScreenshot.PNG)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Team Members
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Ubongabasi Joseph](https://github.com/jkavod)
+- [Patience Jerimaiah](https://github.com/AUDREYPERCY)
+- [Precious Okpomini](https://github.com/okpominiprecious06)
+- [Emmanuel Icon](https://github.com/Icon3610)
+- [John Paul](https://github.com/jp_wurld)
+- [Nazifi Ibrahim](https://github.com/Ibrahimnazifi71)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Linked Credentials
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Adzuna API](https://developer.adzuna.com/)
 
-## Learn More
+## License: MIT
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](link-to-license-file) file for more details.

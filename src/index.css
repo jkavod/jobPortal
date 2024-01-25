@@ -1,13 +1,11 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/* Importing Google Fonts for Aclonica, Lato, and Poppins with specified weights */
+@import url("https://fonts.googleapis.com/css2?family=Aclonica&family=Lato:wght@400;700;900&family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* Include the base styles provided by Tailwind CSS */
+@tailwind base;
+
+/* Include the pre-designed components provided by Tailwind CSS */
+@tailwind components;
+
+/* Include the utility classes provided by Tailwind CSS */
+@tailwind utilities;
