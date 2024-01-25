@@ -22,8 +22,8 @@ The Job Portal project is a collaborative effort by Group 3 in the Web Programmi
 
 ## Project URLs
 
-- **Deployed Site:** [Deployed URL]()
-- **GitHub Repository:** [GitHub Repository](https://github.com/jkavod/jobportal/)
+- **Deployed Site:** [Deployed URL](https://jobportales.vercel.app/)
+- **GitHub Repository:** [GitHub Repository](https://github.com/jkavod/jobPortal.git)
 
 ## Key Features
 
