@@ -193,7 +193,7 @@ export default function Team() {
                   </a>
                   {/* Linkedin */}
                   <a
-                    href="https://www.linkedin.com/in/"
+                    href="https://bj.linkedin.com/in/iruo-precious-0196b62b0"
                     target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
@@ -251,7 +251,7 @@ export default function Team() {
                   </a>
                   {/* Linkedin */}
                   <a
-                    href="https://www.linkedin.com/in/"
+                    href="http://www.linkedin.com/in/icon-de-loved-95b7072b0"
                     target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
@@ -309,7 +309,7 @@ export default function Team() {
                   </a>
                   {/* Linkedin */}
                   <a
-                    href="https://www.linkedin.com/in/"
+                    href="https://www.linkedin.com/in/johnpaul-micheal-5b1b112b0"
                     target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
