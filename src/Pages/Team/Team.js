@@ -70,6 +70,7 @@ export default function Team() {
                   {/* Github */}
                   <a
                     href="https://github.com/jkavod"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Github} alt="Github" className="img" />
@@ -77,6 +78,7 @@ export default function Team() {
                   {/* Linkedin */}
                   <a
                     href="https://linkedin.com/in/jkavod"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Linkedin} alt="Linkedin" className="img" />
@@ -84,13 +86,14 @@ export default function Team() {
                   {/* Twitter */}
                   <a
                     href="https://Twitter.com/jkavod_"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={X} alt="X" className="img" />
                   </a>
                   {/* Gmail */}
                   <a
-                    href="mailto:Ubongjosevv@gmail.com "
+                    href="mailto:Ubongjosevv@gmail.com"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Gmail} alt="Gmail" className="img" />
@@ -125,6 +128,7 @@ export default function Team() {
                   {/* Github */}
                   <a
                     href="https://github.com/AUDREYPERCY"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Github} alt="Github" className="img" />
@@ -132,6 +136,7 @@ export default function Team() {
                   {/* Linkedin */}
                   <a
                     href="https://www.linkedin.com/in/audrey-percy"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Linkedin} alt="Linkedin" className="img" />
@@ -139,6 +144,7 @@ export default function Team() {
                   {/* Twitter */}
                   <a
                     href="https://x.com/audreypercy"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={X} alt="Twitter" className="img" />
@@ -180,6 +186,7 @@ export default function Team() {
                   {/* Github */}
                   <a
                     href="https://github.com/okpominiprecious06"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Github} alt="Github" className="img" />
@@ -187,6 +194,7 @@ export default function Team() {
                   {/* Linkedin */}
                   <a
                     href="https://www.linkedin.com/in/"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Linkedin} alt="Linkedin" className="img" />
@@ -194,13 +202,14 @@ export default function Team() {
                   {/* Twitter */}
                   <a
                     href="https://x.com/certifiedwrld_?s=21&t=d6gSqxNtkpHAWucNzo6Kbw"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={X} alt="Twitter" className="img" />
                   </a>
                   {/* Gmail */}
                   <a
-                    href="mailto:preciousiruo59@gmail.com "
+                    href="mailto:preciousiruo59@gmail.com"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Gmail} alt="Gmail" className="img" />
@@ -235,6 +244,7 @@ export default function Team() {
                   {/* Github */}
                   <a
                     href="https://github.com/Icon3610"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Github} alt="Github" className="img" />
@@ -242,6 +252,7 @@ export default function Team() {
                   {/* Linkedin */}
                   <a
                     href="https://www.linkedin.com/in/"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Linkedin} alt="Linkedin" className="img" />
@@ -249,6 +260,7 @@ export default function Team() {
                   {/* Twitter */}
                   <a
                     href="https://x.com/Wondrous_Man?t=I5oZta-wDf4DRezrQ6Z8pw&s=09"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={X} alt="Twitter" className="img" />
@@ -290,6 +302,7 @@ export default function Team() {
                   {/* Github */}
                   <a
                     href="https://github.com/jp_wurld"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Github} alt="Github" className="img" />
@@ -297,6 +310,7 @@ export default function Team() {
                   {/* Linkedin */}
                   <a
                     href="https://www.linkedin.com/in/"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Linkedin} alt="Linkedin" className="img" />
@@ -304,6 +318,7 @@ export default function Team() {
                   {/* Twitter */}
                   <a
                     href="https://Twitter.com/jp_wurld"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={X} alt="Twitter" className="img" />
@@ -345,6 +360,7 @@ export default function Team() {
                   {/* Github */}
                   <a
                     href="https://github.com/Ibrahimnazifi71"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Github} alt="Github" className="img" />
@@ -352,6 +368,7 @@ export default function Team() {
                   {/* Linkedin */}
                   <a
                     href="https://www.linkedin.com/in/nazifi-ibrahim"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={Linkedin} alt="Linkedin" className="img" />
@@ -359,6 +376,7 @@ export default function Team() {
                   {/* Twitter */}
                   <a
                     href="https://x.com/narzeeyf_"
+                    target="_blank"
                     className="text-white transition-colors duration-300 hover:text-white"
                   >
                     <img src={X} alt="Twitter" className="img" />

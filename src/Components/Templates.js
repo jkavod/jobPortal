@@ -14,7 +14,7 @@ export default function jobTemplate(job, currency) {
           <div className="flex flex-col justify-between overflow-hidden text-left transition-shadow duration-200 bg-white rounded shadow-xl group hover:shadow-2xl">
             <div className="p-5">
               {/* Job title and salary information */}
-              <h4 className="mb-2 font-bold flex ">
+              <h4 className="mb-2 font-bold flex justify-between">
                 {job.title} up to
                 <span className="text-green-800">
                    {currency}
@@ -34,7 +34,7 @@ export default function jobTemplate(job, currency) {
               {/* Link to view the full job details */}
               <a
                 href={job.redirect_url}
-                className="inline-block mt-4 bg-primary text-black py-1 px-5 rounded-full font-bold hover:underline"
+                className="inline-block mt-4 bg-primary text-black py-1 px-5 rounded-full font-bold hover:bg-opacity-80"
               >
                 View Job
               </a>

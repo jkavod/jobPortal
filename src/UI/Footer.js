@@ -27,7 +27,7 @@ export default function Footer() {
         </div>
         <div className="w-full lg:text-end text-center">
           {/* Display a link to the source code */}
-          Link to our <a href="https://github.com/jkavod/jobPortal.git" className="text-primary font-bold">Source Code</a>
+          Link to our <a href="https://github.com/jkavod/jobPortal.git" target="_blank" className="text-primary font-bold">Source Code</a>
         </div>
       </div>
     </footer>

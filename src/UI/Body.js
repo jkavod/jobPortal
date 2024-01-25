@@ -48,7 +48,7 @@ export default function Body() {
   return (
     <main>
       {/* Companies */}
-      <section>
+      <section id="companies">
         <div className="mb-16">
           <div className="bg-white" id="companies-h2">
             <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
@@ -63,16 +63,16 @@ export default function Body() {
                 id="companies"
               >
                 <div>
-                  <img src={Slack} className="h-6 w-32" alt="Slack" />
+                  <img src={Slack} className="lg:h-[20px] lg:w-[100px] h-[15px] w-[20rem]" alt="Slack" />
                 </div>
                 <div>
-                  <img src={Microsoft} className="h-6 w-32" alt="Microsoft" />
+                  <img src={Microsoft} className="lg:h-[20px] lg:w-[100px] h-[15px] w-[20rem]" alt="Microsoft" />
                 </div>
                 <div>
-                  <img src={Google} className="h-6 w-32" alt="Google" />
+                  <img src={Google} className="lg:h-[20px] lg:w-[90px] h-[15px] w-[20rem]" alt="Google" />
                 </div>
                 <div>
-                  <img src={Airbnb} className="h-6 w-32" alt="Airbnb" />
+                  <img src={Airbnb} className="lg:h-[20px] lg:w-[90px] h-[15px] w-[20rem]" alt="Airbnb" />
                 </div>
               </div>
             </div>

@@ -23,6 +23,7 @@ export default function Hero() {
               <div className="flex flex-col items-center md:flex-row">
                 <Link
                   to={"/findjobs"}
+                  target="_blank"
                   className="inline-flex items-center justify-center w-full h-12 px-6 mb-3 font-medium tracking-wide text-white transition duration-200 rounded-full shadow-md md:w-auto md:mr-4 md:mb-0 bg-black hover:bg-gray-700 focus:shadow-outline focus:outline-none"
                 >
                   <span className="mr-3">Find Jobs</span>
@@ -41,7 +42,7 @@ export default function Hero() {
 
         {/* Scroll Down */}
         <a
-          href="/"
+          href="/#companies"
           aria-label="Scroll down"
           className="flex items-center justify-center w-10 h-10 mx-auto text-black duration-300 transform border border-black rounded-full hover:text-primary hover:border-primary hover:shadow mb-10 hover:scale-110"
         >
@@ -59,7 +60,8 @@ export default function Hero() {
         {/* Sponsor */}
         <div className="w-full flex justify-end mb-10">
           <a
-            href="#"
+            href="https://estamuni.net/"
+            target="_blank"
             className="text-[10px] font-bold bg-primary py-2 px-5 rounded-full sponsored"
           >
             Sponsored by<span className="text-xl"> Estam University</span>

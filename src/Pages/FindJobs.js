@@ -3,6 +3,8 @@ import { Nav, Footer } from "../UI";
 import { Loader } from "../Assets";
 import { Currency, Templates } from "../Components";
 import { apiId, apiKey } from "../Config/config";
+import "../UI/Style.css"
+import { StaticScrollUpButton } from "../Constants";
 
 const FindJobs = () => {
   // State variables
@@ -56,7 +58,7 @@ const FindJobs = () => {
 
   // JSX for rendering the component
   return (
-    <main className="bg-secondary flex flex-col justify-between items-center">
+    <main className="bg-secondary flex flex-col justify-between items-center h-[100vh] overflow-y-auto">
       <div className="w-full">
         <Nav />
       </div>
@@ -176,7 +178,7 @@ const FindJobs = () => {
               )}
 
               {/* Job results */}
-              <div className="grid gap-1 grid-cols-1 sm:grid-cols-2 lg:grid-cols-4">
+              <div className="grid gap-1 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                 {jobs.map((job) => Templates(job, currencySymbol))}
               </div>
             </div>
@@ -187,6 +189,7 @@ const FindJobs = () => {
       {/* Footer Section */}
       <div className="w-full">
         <Footer />
+        <StaticScrollUpButton />
       </div>
     </main>
   );
