@@ -15,7 +15,7 @@ The Job Portal project is a collaborative effort by Group 3 in the Web Programmi
 
 - Adzuna API
 - CSS3
-- Firebase (Hosting)
+- Vercel (Hosting)
 - HTML5
 - React JS
 - Tailwind
