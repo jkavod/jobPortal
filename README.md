@@ -46,7 +46,7 @@ The Job Portal project is a collaborative effort by Group 3 in the Web Programmi
 ## Team Members
 
 - [Ubongabasi Joseph](https://github.com/jkavod)
-- [Patience Jerimaiah](https://github.com/AUDREYPERCY)
+- [Patience Jeremiah](https://github.com/AUDREYPERCY)
 - [Precious Okpomini](https://github.com/okpominiprecious06)
 - [Emmanuel Icon](https://github.com/Icon3610)
 - [John Paul](https://github.com/jp_wurld)
